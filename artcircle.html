@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            ART circle website
+        </title>
+        <style>
+            body{
+                background-image:url("https://image.jimcdn.com/app/cms/image/transf/none/path/s906b641b686670d9/backgroundarea/ife3090a6f76839f6/version/1563852387/image.jpg");
+                background-size: 100%;
+            }
+            h1{
+                text-decoration-style: solid;
+                font-style: oblique;
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                letter-spacing: 2mm;
+                font-size: 70px;
+                text-align: center;
+                padding-top:0mm;
+                text-shadow: 4px;
+                text-decoration-color: navy;
+            }
+            h2{
+                text-decoration-style: solid;
+                font-style: oblique;
+                font-family: italic;
+                font-size: large;
+                letter-spacing: 0.9px;
+                font-size: 50px;
+                font-weight: bolder;
+                text-decoration: underline;
+                text-align: center;
+            }
+            td{
+                font-family: fantasy;
+                font-size: 40px;
+                font-weight: bolder;
+                font-style: italic;
+                letter-spacing: 0.9px;
+                word-spacing: 350px;
+                orientation: landscape;
+                text-orientation: upright;
+            }
+            aside{
+                text-align: right;
+            }
+            img{
+                border-radius: 7px;
+                border-width: 5px;
+                border-color: black;
+            }
+            h3{
+                font-size: 30px;
+            }
+            p{
+               font-size: 25px;
+            }
+            .center{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width:70%;
+            }
+            .r{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 50%;
+                border-radius: 7px;
+                border-color: black;
+                border-width: 5px;
+            }
+           
+                  </style>
+    </head>
+    <body>
+        <h1> <b>****WELCOME TO PCCOE ART CIRCLE****</b></h1>
+     <h2><b>CLUBS OF ART CIRCLE:</b></h2>
+     <table><tr>
+      <td>  
+            THEATRE 
+            DANCING 
+            MUSICAL </td></tr>
+           <tr><td>SINGING 
+            PAINTING 
+            RANGOLI </td></tr>
+            <tr>
+             <td>WRITING  
+              ANCHORING 
+              </td>
+            </tr>
+           
+     </table>
+     <h2><b>ACTIVITIES OF ART CIRCLE:</b></h2>
+     <img src="http://www.pccoepune.com/images/artcircle/artcircle.jpg" class="center" width="500px">
+     <h2 ><b>ACHIEVEMENTS OF ART CIRCLE:</b></h2>
+     <h3><b>1.PURUSHOTTAM KARANDAK 2K22 COMPETITION:-</b></h3>
+     <p>Like every year, PCCoE Art circle had participated in prestigious event Purushottam Karandak. The Purushottam Karandak, is an annual inter-collegiate Marathi one-act play competition where students from across Maharashtra representing their respective college participate. The competition is known for giving a platform to amateur actors, some of whom have become professional actors, directors and playwrights.
+        We presented a play named Hirveen written by Mr. Rushikesh Turai. It is about a college going girl Suman, who tries to commit suicide because her peers at college make fun of her because she wishes to participate in a beauty contest. Further, the story shows how Suman's mother Mangal and her friend Chingi use reverse psychology to make Suman participate in the beauty contest without fearing the outcome. Even though we did not get selected for finals but, performance was flawless and very well appreciated by the judges. Maitreyee Hatwalne BE E&TC won consolidation prize for Acting.
+        This event provided a platform to showcase artistic skills of students through Acting, Direction, Singing, Music, Dance, Lights etc. through their interestand creativity.</p>
+        <img src="http://www.pccoepune.com/images/artcircle/image13.jpg" class="r">
+        <h3><b> 2.ONLINE PHOTOGRAPHY COMPETITION ON THE OCCASION OF GANESHA FESTIVAL:-</b></h3>
+        <P>PCCoE Art Circle has always come up with creative events. Photography Competition on the occasion of Ganesha Festival was one of them. We received 27 responses with beautiful and innovative clicks of Bappa.
+            Pooja Sanjay Kharde - FY BTech ENTC and Nikita Jagdish Patil - TE Civil and Aditya Kulkarni - B.E. IT won the first prize, second prize and third prize respectively.</P>
+        <img src="http://www.pccoepune.com/images/artcircle/image10.jpg" class="r">
+<h3><b>3.ONLINE ECOFRIENDLY SHADU GANESHA IDOL MAKING WORKSHOP:-</b></h3>
+      
+           <p>Ganesh Chaturthi is celebrated fervently every year in various parts of the country, especially Maharashtra. The cause for worry for several years has been the amount of pollution both, land and water that’s caused during and on the day, the festival ends. Idols made of Plaster of Paris that are toxic for under-water ecology, all go straight into local water bodies. The idols are often decorated with paints heavy on lead and mercury which once immersed adds to the ongoing process of destroying the flora and fauna of the water body.
+            With slogan Go green and keep our environment clean, Two days online workshop on Eco-friendly Shadu Ganesha Idol Making was successfully organized on 28th and 29th Aug. 2021 through Google Meet due to Covid 19 pandemic situation. Assistant Professor Shriyash S. Shinde from Mechanical Department was expert for the workshop. 42 beautiful Ganesh idols were made with creativity using shadu clay. Everyone gained knowledge about making shadu ganesha idol, Coloring them, necessity of making shadu idols and responsibility of individual as a citizen towards environment. Everyone enjoyed and appreciated the workshop.</p>
+      <img src="http://www.pccoepune.com/images/artcircle/image12.jpg" class="r">
+   <h3><b>4.ONLINE POSTER COMPETITION:-</b></h3>
+   <p>PCCoE Art Circle has come up with creative events in this pandemic also. Considering COVID scenario in the world, we organized Poster Competition on topic Human, Technology and Corona on 12th June 2021. We received creative posters on the given topic.
+    Mr. Ayush Sarode from F.Y. BTech and Mr. Harshwardhan Shinde from F.Y. BTech won the first prize and second prize respectively.
+    <img src="http://www.pccoepune.com/images/artcircle/image7.jpg" class="r">
+    </p>
+    <h3><b>5.ONLINE RANGOLI COMPETITIONON THE OCCASIONOF WORLD ENVIRONMENT DAY:-</b></h3>
+    <p>The purpose of World Environment Day is to spread awareness about the threat to the environment due to rising pollution levels and climate change. To focus on the importance of the environment, PCCoE Art Circle organized online Rangoli Competition. We received beautiful and creative Rangoli from students.
+        Ms. Nikita Patil from SE Civil and Ms. Rutuja Chaudhari from SE Computer won the first prize and second prize respectively.</p>
+        <img src="http://www.pccoepune.com/images/artcircle/image4.jpg" class="r">
+    </body>
+</html>
